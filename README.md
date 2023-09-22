@@ -13,7 +13,7 @@ Protection Group International: https://pgitl.com
 
 ## First & Third Party Sources
 
-SEC: https://www.sec.gov/edgar/search-and-access
+SEC: https://www.sec.gov/edgar/search-and-access  
 Companies House: https://www.gov.uk/government/organisations/companies-house  
 Open Corporates: https://opencorporates.com  
 OCCRP: https://www.occrp.org/en/  
